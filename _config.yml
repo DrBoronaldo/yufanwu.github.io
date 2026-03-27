@@ -13,23 +13,19 @@ title                    : "Yufan Wu"
 title_separator          : "-"
 name                     : &name "Yufan Wu"
 description              : &description "Yufan Wu's academic portfolio"
-
-# ！！！重点修改这里！！！
-url                      : "https://yufanwu.github.io" 
-baseurl                  : "" 
+url                      : "https://yufanwu.github.io"
+baseurl                  : ""
 repository               : "yufanwu/yufanwu.github.io"
 
 # Site Author
 author:
-  # Biographic information
-  avatar           : "profile.png" # 确保你在 images 文件夹里有一张叫 profile.png 的照片
+  avatar           : "profile.png"
   name             : "Yufan Wu"
-  pronouns         : # 选填，例如 "he/him"
-  bio              : "Ph.D. Student / Researcher in Sport Management" # 这里写你的简短介绍
-  location         : "Tokyo, Japan" # 你的所在地
-  employer         : "Waseda University" # 你的学校
-  uri              : 
-  email            : "yufan-wu@toki.waseda.jp"
+  bio              : "Ph.D. Student in Sport Management"
+  location         : "Tokyo, Japan"
+  employer         : "Waseda University"
+  googlescholar    : "https://scholar.google.com"
+  github           : "yufanwu"
 
   # Academic websites
   academia         : # URL
