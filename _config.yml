@@ -21,7 +21,7 @@ repository               : "DrBoronaldo/DrBoronaldo.github.io"
 
 # Site Author
 author:
-  avatar           : "profile.png" # 记得在 images 文件夹放一张 profile.png
+  avatar           : "American style.jpg" # 记得在 images 文件夹放一张 profile.png
   name             : "Yufan Wu"
   bio              : "Ph.D. Student in Sport Management"
   location         : "Tokyo, Japan"
